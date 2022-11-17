@@ -1,0 +1,12 @@
+C:\Users\79856\Desktop\Высер\GeometricFigures\GeometricFigures\obj\Debug\net7.0\GeometricFigures.csproj.AssemblyReference.cache
+C:\Users\79856\Desktop\Высер\GeometricFigures\GeometricFigures\obj\Debug\net7.0\GeometricFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79856\Desktop\Высер\GeometricFigures\GeometricFigures\obj\Debug\net7.0\GeometricFigures.AssemblyInfoInputs.cache
+C:\Users\79856\Desktop\Высер\GeometricFigures\GeometricFigures\obj\Debug\net7.0\GeometricFigures.AssemblyInfo.cs
+C:\Users\79856\Desktop\Высер\GeometricFigures\GeometricFigures\obj\Debug\net7.0\GeometricFigures.csproj.CoreCompileInputs.cache
+C:\Users\79856\Desktop\Высер\GeometricFigures\GeometricFigures\bin\Debug\net7.0\GeometricFigures.deps.json
+C:\Users\79856\Desktop\Высер\GeometricFigures\GeometricFigures\bin\Debug\net7.0\GeometricFigures.dll
+C:\Users\79856\Desktop\Высер\GeometricFigures\GeometricFigures\bin\Debug\net7.0\GeometricFigures.pdb
+C:\Users\79856\Desktop\Высер\GeometricFigures\GeometricFigures\obj\Debug\net7.0\GeometricFigures.dll
+C:\Users\79856\Desktop\Высер\GeometricFigures\GeometricFigures\obj\Debug\net7.0\refint\GeometricFigures.dll
+C:\Users\79856\Desktop\Высер\GeometricFigures\GeometricFigures\obj\Debug\net7.0\GeometricFigures.pdb
+C:\Users\79856\Desktop\Высер\GeometricFigures\GeometricFigures\obj\Debug\net7.0\ref\GeometricFigures.dll

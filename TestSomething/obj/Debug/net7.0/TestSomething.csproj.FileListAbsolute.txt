@@ -1,0 +1,15 @@
+C:\Users\79856\Desktop\Высер\GeometricFigures\TestSomething\bin\Debug\net7.0\TestSomething.exe
+C:\Users\79856\Desktop\Высер\GeometricFigures\TestSomething\bin\Debug\net7.0\TestSomething.deps.json
+C:\Users\79856\Desktop\Высер\GeometricFigures\TestSomething\bin\Debug\net7.0\TestSomething.runtimeconfig.json
+C:\Users\79856\Desktop\Высер\GeometricFigures\TestSomething\bin\Debug\net7.0\TestSomething.dll
+C:\Users\79856\Desktop\Высер\GeometricFigures\TestSomething\bin\Debug\net7.0\TestSomething.pdb
+C:\Users\79856\Desktop\Высер\GeometricFigures\TestSomething\obj\Debug\net7.0\TestSomething.csproj.AssemblyReference.cache
+C:\Users\79856\Desktop\Высер\GeometricFigures\TestSomething\obj\Debug\net7.0\TestSomething.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79856\Desktop\Высер\GeometricFigures\TestSomething\obj\Debug\net7.0\TestSomething.AssemblyInfoInputs.cache
+C:\Users\79856\Desktop\Высер\GeometricFigures\TestSomething\obj\Debug\net7.0\TestSomething.AssemblyInfo.cs
+C:\Users\79856\Desktop\Высер\GeometricFigures\TestSomething\obj\Debug\net7.0\TestSomething.csproj.CoreCompileInputs.cache
+C:\Users\79856\Desktop\Высер\GeometricFigures\TestSomething\obj\Debug\net7.0\TestSomething.dll
+C:\Users\79856\Desktop\Высер\GeometricFigures\TestSomething\obj\Debug\net7.0\refint\TestSomething.dll
+C:\Users\79856\Desktop\Высер\GeometricFigures\TestSomething\obj\Debug\net7.0\TestSomething.pdb
+C:\Users\79856\Desktop\Высер\GeometricFigures\TestSomething\obj\Debug\net7.0\TestSomething.genruntimeconfig.cache
+C:\Users\79856\Desktop\Высер\GeometricFigures\TestSomething\obj\Debug\net7.0\ref\TestSomething.dll
